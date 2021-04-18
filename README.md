@@ -1,5 +1,8 @@
 # typing-game
 
+[readme.pdf](https://github.com/farahin98/typing-game/files/6331834/readme.pdf)
+
+
 1.0 Introduction to HTML | Student will be able to learn:
 --- | --- | 
 1.1 What is HTML? | 1.1.1 Define HTML
